@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "keywords": ["nodejs", "api", "express", "mongodb", "crud"],
+  "author": "Leonardo Lombana Contento",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
